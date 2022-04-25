@@ -26,8 +26,4 @@ Algorithm is weighted as explained in the comments starting line 26 to save runt
 
 Sample output video stored in the submitted zip file
 
-Not sure if the exploration tree was meant to be so clustered as the sample video shown in class was not, but the threshold is very small and the video displayed a pixel per threshold value so it makes sense for it to be
 
-Obstacle map was remade without the clearance just to show the original dimensions in the video, the program still takes into account the clearance
-
-Frames are not saved for every node to save runtime
